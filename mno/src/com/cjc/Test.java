@@ -15,7 +15,10 @@ public class Test {
 		System.out.println("this m4");
 	}
 	
-	
+	public void m5()
+	{
+		System.out.println("this m5");
+	}
 	public static void main(String[] args) {
 		System.out.println("this is main method");
 	}
